@@ -1,4 +1,7 @@
-Linux_philosopher_Plan
+Linux_Philosopher_Plan
 ======================
 
-Linux learning project memo.
+This project I create mainly to help me build up linux knoweledge.
+
+------------------------------------------------------------------
+
